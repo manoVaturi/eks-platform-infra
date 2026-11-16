@@ -1,0 +1,6 @@
+# The versions this project was built and tested with. Works with asdf and mise.
+terraform 1.15.9
+terragrunt 1.2.1
+helm 4.1.4
+kubectl 1.37.0
+awscli 2.38.6
